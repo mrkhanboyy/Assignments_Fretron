@@ -1,5 +1,8 @@
 package main.kotlin
 
+//Q Write a program to find the second smallest element in an array.
+
+
 class SecondSmallestNumber {
 
     fun secondSmallestNumber(values:Array<Int>){

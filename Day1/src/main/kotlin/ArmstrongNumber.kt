@@ -1,5 +1,7 @@
 package main.kotlin
 
+//Q Write a program to check if the given number is Armstrong number or not.
+
 class ArmstrongNumber {
 
     fun isArmstrong(number:Int):Boolean{
